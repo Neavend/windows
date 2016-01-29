@@ -1,4 +1,3 @@
-# windows
 # My Windows Config
 
 Still under heavy modifications
