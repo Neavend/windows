@@ -1,0 +1,6 @@
+[submodule "bug.n"]
+	path = bug.n
+	url = https://github.com/fuhsjr00/bug.n.git
+[submodule "windmenu"]
+	path = windmenu
+	url = https://github.com/psgarsenal/windmenu.git
